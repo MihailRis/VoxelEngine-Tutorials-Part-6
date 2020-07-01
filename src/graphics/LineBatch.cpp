@@ -1,10 +1,3 @@
-/*
- * LineBatch.cpp
- *
- *  Created on: Jun 25, 2020
- *      Author: MihailRis
- */
-
 #include "LineBatch.h"
 #include "Mesh.h"
 
